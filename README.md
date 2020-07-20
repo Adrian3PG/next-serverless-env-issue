@@ -1,0 +1,1 @@
+Minimal Next.JS setup to test target serverless + webpack DefinePlugin + environment variable with ! in value
